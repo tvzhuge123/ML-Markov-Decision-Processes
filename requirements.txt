@@ -1,0 +1,8 @@
+python=3.7
+numpy
+pandas
+matplotlib
+mdptoolbox
+time
+itertools
+functools
